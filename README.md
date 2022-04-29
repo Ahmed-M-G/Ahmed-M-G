@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed Gaber</h1>
 
 <h3 align="center">
-  - Graduated From Faculty Of Science ASU Computer Science <br>
-  - Master's Student At Digital Egypt Builders Initiative - Queen's University In Canda
+- Graduated From Faculty Of Science ASU Computer Science <br>
+- Master's Student At Digital Egypt Builders Initiative - Queen's University In Canda <hr>
 </h3>
 
 - 🔭 I’m currently working on **AI projects**
@@ -11,9 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ahmed-M-G](https://github.com/Ahmed-M-G)
 
-- 📫 How to reach me **gaber1400119@gmail.com**
-
-<hr>
+- 📫 How to reach me **gaber1400119@gmail.com** <hr>
 
 
 
