@@ -2,9 +2,10 @@
 
 <h3 align="center">
   - Graduated From Faculty Of Science ASU Computer Science <br>
-  - Master's Student At Digital Egypt Builders Initiative - Queen's University In Canda
+  - Master's Student At Digital Egypt Builders Initiative - Queen's University In Canda <br>
 </h3>
-<br>
+
+
 [![](https://visitcount.itsvg.in/api?id=Ahmed-M-G&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐Socials
