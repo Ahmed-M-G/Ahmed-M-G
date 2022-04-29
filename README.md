@@ -14,9 +14,6 @@
 
 - 📫 How to reach me **gaber1400119@gmail.com**
 
-<hr><br>
-
-
 ## 🌐Socials
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-gaber-143b25175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-gaber-143b25175/" height="30" width="40" /></a>
