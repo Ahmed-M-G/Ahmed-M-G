@@ -1,9 +1,18 @@
-##<h1 align="center">Hi 👋, I'm Ahmed Mohamed Gaber</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Mohamed Gaber</h1>
 
 <h3 align="center">
   - Graduated From Faculty Of Science ASU Computer Science <br>
   - Master's Student At Digital Egypt Builders Initiative - Queen's University In Canda <br>
 </h3>
+
+- 🔭 I’m currently working on **AI projects**
+
+- 🌱 I’m currently learning **AI and Data Science**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Ahmed-M-G](https://github.com/Ahmed-M-G)
+
+- 📫 How to reach me **gaber1400119@gmail.com**
+
 
 
 [![](https://visitcount.itsvg.in/api?id=Ahmed-M-G&icon=0&color=0)](https://visitcount.itsvg.in)
