@@ -12,8 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ahmed-M-G](https://github.com/Ahmed-M-G)
 
-- 📫 How to reach me **gaber1400119@gmail.com** <hr>
+- 📫 How to reach me **gaber1400119@gmail.com**
 
+<br><hr>
 
 
 [![](https://visitcount.itsvg.in/api?id=Ahmed-M-G&icon=0&color=0)](https://visitcount.itsvg.in)
