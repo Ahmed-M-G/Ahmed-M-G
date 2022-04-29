@@ -17,8 +17,6 @@
 <hr><br>
 
 
-[![](https://visitcount.itsvg.in/api?id=Ahmed-M-G&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 🌐Socials
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-gaber-143b25175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-gaber-143b25175/" height="30" width="40" /></a>
@@ -41,3 +39,6 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ahmed-M-G&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+
+[![](https://visitcount.itsvg.in/api?id=Ahmed-M-G&icon=0&color=0)](https://visitcount.itsvg.in)
