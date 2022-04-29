@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed Gaber</h1>
 
+<h3 align="center">
+  - Graduated From Faculty Of Science ASU Computer Science
+  - Master's student at Digital Egypt Builders Initiative - Queen's University in canda
+</h3>
+
 [![](https://visitcount.itsvg.in/api?id=Ahmed-M-G&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐Socials
