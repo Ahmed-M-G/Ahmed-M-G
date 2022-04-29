@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed Gaber</h1>
 
-<h3 align="center">
+<h3>
   - Graduated From Faculty Of Science ASU Computer Science
   - Master's student at Digital Egypt Builders Initiative - Queen's University in canda
 </h3>
