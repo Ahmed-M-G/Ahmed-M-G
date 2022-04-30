@@ -39,7 +39,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Ahmed-M-G&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 <hr>
 
-[![](https://visitcount.itsvg.in/api?id=Ahmed-M-G&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 ![Snake](https://github.com/Ahmed-M-G/Ahmed-M-G/blob/output/github-contribution-grid-snake.svg)
+
+[![](https://visitcount.itsvg.in/api?id=Ahmed-M-G&icon=0&color=0)](https://visitcount.itsvg.in)
