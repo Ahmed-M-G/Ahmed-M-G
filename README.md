@@ -41,6 +41,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=Ahmed-M-G&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Ahmed-M-G/Ahmed-M-G/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Ahmed-M-G/Ahmed-M-G/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
