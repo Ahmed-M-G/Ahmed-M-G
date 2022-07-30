@@ -39,15 +39,15 @@
 ![](https://github-profile-trophy.vercel.app/?username=Ahmed-M-G&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 <hr>
 
-<summary align="right">:zap: Most Used Languages</summary>
+<summary align="left">:zap: Most Used Languages</summary>
 
-<img align="right" alt="Ahmed's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-M-G&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-M-G&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 
 
 
 <summary align="left">:zap: Contribution Graph</summary>
 
-<img align="left" alt="Kareem's GitHub Top Languages" src="https://activity-graph.herokuapp.com/graph?username=kareemgamalmahmoud&theme=react-dark&bg_color=20232a&hide_border=true" />
+<img align="left" src="https://activity-graph.herokuapp.com/graph?username=Ahmed-M-G&theme=react-dark&bg_color=20232a&hide_border=true" />
 
 
 
