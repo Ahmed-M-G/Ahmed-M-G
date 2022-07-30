@@ -41,7 +41,7 @@
 
 <summary align="left">:zap: Contribution Graph</summary>
 
-<img align="left" alt="Kareem's GitHub Top Languages" src="https://activity-graph.herokuapp.com/graph?username=kareemgamalmahmoud&theme=react-dark&bg_color=20232a&hide_border=true" />
+<img align="left" alt="Ahmed's GitHub Top Languages" src="https://activity-graph.herokuapp.com/graph?username=Ahmed-M-G&theme=react-dark&bg_color=20232a&hide_border=true" />
 
 
 ![Snake](https://github.com/Ahmed-M-G/Ahmed-M-G/blob/output/github-contribution-grid-snake.svg)
