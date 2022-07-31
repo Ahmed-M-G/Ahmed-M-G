@@ -62,3 +62,7 @@
 <br>
 
 <!-- ![](https://komarev.com/ghpvc/?username=Ahmed-M-G) -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
