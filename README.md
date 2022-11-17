@@ -2,7 +2,7 @@
 
 <h3 align="center">
 - Graduated From Faculty Of Science ASU Computer Science <br>
-- Master's Student At Digital Egypt Builders Initiative - Queen's University In Canda
+- Master's Student At Queen's University In Canda
 </h3>
 <br>
 
