@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Ahmed Mohamed Gaber <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">
-- Master's degree in AI & Data Science from Queen's University in Canada <br>
-- Graduated From Faculty Of Science ASU Computer Science
+- Master of Science in AI and Data Science from Queen's University in Canada <br>
+- Bachelor of Science in Computer Science From The Faculty of Science ASU
 </h3>
 <br>
 
