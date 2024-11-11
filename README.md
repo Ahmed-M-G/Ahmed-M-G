@@ -62,11 +62,11 @@ Bachelor of Science Degree in Computer Science From The Faculty of Science ASU
 
 
 # ⚡ Recent GitHub Activity
-<!--   <br/>
+<br/>
    <a href="https://github.com/Ahmed-M-G"><img alt="Ahmed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ahmed-M-G&custom_title=Ahmed's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/> -->
+  <br/> 
 
-![Snake](https://github.com/Ahmed-M-G/Ahmed-M-G/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake](https://github.com/Ahmed-M-G/Ahmed-M-G/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
