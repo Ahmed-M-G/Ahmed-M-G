@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Ahmed Mohamed Gaber <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">
-Master of Science Degree in AI & Data Science from Queen's University in Canada
+Master of Science in Artificial Intelligence & Data Science from Queen’s University, Canada
 </h3>
 <br>
 
